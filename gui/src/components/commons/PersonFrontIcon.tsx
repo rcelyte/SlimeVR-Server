@@ -28,7 +28,7 @@ export function PersonFrontIcon({ mirror = true }: { mirror?: boolean }) {
 
   return (
     <svg width="100%" viewBox="0 0 163 392" xmlns="http://www.w3.org/2000/svg">
-      <image className="h-full w-full" href="/images/assignment-pose.webp" />
+      <image className="h-full w-full" href="/images/front-standing-pose.webp" />
       <circle
         className="body-part-circle"
         cx="82"
